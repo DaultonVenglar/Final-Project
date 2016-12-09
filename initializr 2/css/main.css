@@ -1,22 +1,93 @@
-
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.headline {
+  font-family: 'Oswald', sans-serif;
+  font-size: 115px;
+}
+.subhead1 {
+  font-family: 'Oswald', sans-serif;
+}
+.byline {
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+.photoByline {
+  margin-top: 0px;
+}
+.story {
+  font-size: 16px;
+  font-family: Georgia, serif;
+}
+.caption1 {
+  font-size: 12px;
+  color: gray;
+}
+.caption2 {
+  font-size: 12px;
+  color: gray;
+  text-align: center;
+}
+.caption3 {
+  font-size: 12px;
+  color: gray;
+  text-align: center;
+}
+.caption4 {
+  font-size: 12px;
+  color: gray;
+  text-align: center;
+}
+.caption5 {
+  font-size: 12px;
+  color: gray;
+  text-align: center;
+}
+.caption6 {
+  font-size: 12px;
+  color: gray;
+  text-align: center;
+}
+img.image1 {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+img.image2 {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+img.image3 {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+img.image4 {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+img.image5 {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.wrapper {
+  margin: 20px auto;
+  width: 90%;
+  background-color: white;
+  padding: 20px;
+}
+body {
+  background-color: #F9F1DC;
+}
+.bio {
+  border-top: 1px solid black;
+  padding-top: 10px;
+}
+.storyHeads {
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Oswald', sans-serif;
+  padding-bottom: 10px;
+  padding-top: 20px;
+  border-top: 1px solid gray;
+}
